@@ -14,4 +14,4 @@ const Skip = () => {
     )
 } 
 
-export default Skip
+export default Skip;
